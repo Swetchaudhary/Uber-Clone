@@ -46,7 +46,7 @@ const UserSignup = () => {
       <div>
         <img
           className="w-16 mb-10"
-          src="https://tse3.mm.bing.net/th/id/OIP.mzogwijpMisG1IbuHAWqWAHaCk?pid=Api&P=0&h=180"
+          src="https://freepnglogo.com/images/all_img/uber-logo-c96a.png"
           alt=""
         />
 
