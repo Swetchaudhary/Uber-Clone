@@ -2,7 +2,7 @@ import React from 'react'
 import { RiMapPinFill } from "@remixicon/react";
 
 
-const LocationSerchPanel = (props) => {
+const LocationSearchPanel = (props) => {
 
   //sample array for locations
 
@@ -36,4 +36,4 @@ const LocationSerchPanel = (props) => {
   )
 }
 
-export default LocationSerchPanel
+export default LocationSearchPanel
